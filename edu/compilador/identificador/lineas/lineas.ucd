@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" size="975,344" id="hogar6e2sohhiqEkeiscoMiCompilador560" metadata="nsuml-1.4" initialized="true" showWireOptions="1" zoom="0.7729166666666667">
+  <children xsi:type="editmodel:ClassEditModel" location="513,203" size="202,85" id="hogar6e2sohhiqEkeiscoMiCompilador1191" runTimeClassModel="hogar6e2sohhiqEkeiscoMiCompilador1280;hogar6e2sohhiqEkeiscoMiCompilador1274;hogar6e2sohhiqEkeiscoMiCompilador1277">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="154,36">
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1274"/>
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1277"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1192" connectionRouterKind="Manual" source="//@children.0" target="//@children.2/@sourceConnections.0" targetEnd="//@children.0/@sourceConnections.0/@children.1" sourceEnd="//@children.0/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="101,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="420,50" size="158,103" targetConnections="//@children.2/@sourceConnections.0" id="hogar6e2sohhiqEkeiscoMiCompilador561" runTimeClassModel="hogar6e2sohhiqEkeiscoMiCompilador989;hogar6e2sohhiqEkeiscoMiCompilador983;hogar6e2sohhiqEkeiscoMiCompilador987;hogar6e2sohhiqEkeiscoMiCompilador984">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="125,54">
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador984"/>
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador987"/>
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador989"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="50,203" size="204,85" id="hogar6e2sohhiqEkeiscoMiCompilador1155" runTimeClassModel="hogar6e2sohhiqEkeiscoMiCompilador1159;hogar6e2sohhiqEkeiscoMiCompilador1165;hogar6e2sohhiqEkeiscoMiCompilador1162;hogar6e2sohhiqEkeiscoMiCompilador1156">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="158,36">
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1156"/>
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1159"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.4/@sourceConnections.0 //@children.0/@sourceConnections.0 //@children.3/@sourceConnections.0" connectionRouterKind="GeneralizationManhattan" source="//@children.2" target="//@children.1" targetEnd="//@children.2/@sourceConnections.0/@children.1" sourceEnd="//@children.2/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="102,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="79,103" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="745,203" size="210,121" id="hogar6e2sohhiqEkeiscoMiCompilador562" runTimeClassModel="hogar6e2sohhiqEkeiscoMiCompilador1220;hogar6e2sohhiqEkeiscoMiCompilador1214;hogar6e2sohhiqEkeiscoMiCompilador1228;hogar6e2sohhiqEkeiscoMiCompilador1217;hogar6e2sohhiqEkeiscoMiCompilador1210;hogar6e2sohhiqEkeiscoMiCompilador1223;hogar6e2sohhiqEkeiscoMiCompilador1226;hogar6e2sohhiqEkeiscoMiCompilador1211">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="162,72">
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1211"/>
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1226"/>
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1214"/>
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1228"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador563" connectionRouterKind="Manual" source="//@children.3" target="//@children.2/@sourceConnections.0" targetEnd="//@children.3/@sourceConnections.0/@children.1" sourceEnd="//@children.3/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="105,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" location="284,203" size="199,85" id="hogar6e2sohhiqEkeiscoMiCompilador1179" runTimeClassModel="hogar6e2sohhiqEkeiscoMiCompilador1330;hogar6e2sohhiqEkeiscoMiCompilador1313;hogar6e2sohhiqEkeiscoMiCompilador1339;hogar6e2sohhiqEkeiscoMiCompilador1325;hogar6e2sohhiqEkeiscoMiCompilador1309;hogar6e2sohhiqEkeiscoMiCompilador1321;hogar6e2sohhiqEkeiscoMiCompilador1303;hogar6e2sohhiqEkeiscoMiCompilador1333;hogar6e2sohhiqEkeiscoMiCompilador1317;hogar6e2sohhiqEkeiscoMiCompilador1306">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="153,36">
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1303"/>
+      <children xsi:type="editmodel:MethodEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1306"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" id="hogar6e2sohhiqEkeiscoMiCompilador1180" connectionRouterKind="Manual" source="//@children.4" target="//@children.2/@sourceConnections.0" targetEnd="//@children.4/@sourceConnections.0/@children.1" sourceEnd="//@children.4/@sourceConnections.0/@children.0">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="99,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true"/>
+  </children>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showPublicMethods="true" showPackageMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showInterfaceStereotype="true" showClassStereotype="true" showPackageStereotype="true"/>
+</editmodel:ClassDiagramEditModel>

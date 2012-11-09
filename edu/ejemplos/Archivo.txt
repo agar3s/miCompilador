@@ -1,0 +1,10 @@
+entero a, b;
+a=3;
+b=a*a;
+cadena texto;
+texto = "hola mundo\n";
+escribir(b);
+escribir(texto);
+para(entero a=0;a<=10;a=a+1)
+escribir(b)
+
